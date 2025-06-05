@@ -1,4 +1,4 @@
-# Atividade-Pratica-Notificacao
+# Atividade_Pratica_Notificacao
 Atividade pratica na qual se deve criar um programa para enviar notificações por meio de e-mail e SMS
 
 Desenvolver parte de um sistema simples de notificações de usuários para uma aplicação.
